@@ -1,0 +1,57 @@
+// 插件
+plugins {
+    id 'java'
+    id "io.franzbecker.gradle-lombok" version "3.1.0"   //在此添加插件否则lombok引用会失败
+}
+//自定义 MANIFEST.MF  gradle propertie s
+jar{
+    manifest {
+        attributes 'Main-Class': 'HelloJava'
+        attributes 'sbsbsbsb':'you are sb.'
+    }
+}
+//发布jar包
+task uploadArchives {
+   
+}
+
+group 'com.personalcloud'
+version '1.0'
+sourceCompatibility = 1.8
+
+
+// 仓库地址
+repositories {
+    mavenCentral()
+    //mavenLocal()    // 添加本地仓库
+    //jcenter()
+}
+//自定义任务，默认任务
+defaultTasks 'hello';
+task   hello  {
+    println "Hello it's default task!"
+    ext.myname="abcdefghijklmnopqrstuvwxyz";
+    doLast {
+        println "ssssssssssssbbbbbbbbbb";
+    }
+}
+hello.doLast{
+    println hello.myname;
+}
+// 依赖的项目，包
+dependencies {
+
+    //testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    //compile group: 'io.netty', name: 'netty-all', version: '4.1.32.Final'
+
+    //compile group: 'mysql', name: 'mysql-connector-java', version: '5.1.47'
+
+    //compile group: 'org.mybatis', name: 'mybatis', version: '3.4.6'
+
+    //compile group: 'log4j', name: 'log4j', version: '1.2.17'
+
+    //compile group: 'org.slf4j', name: 'slf4j-api', version: '1.7.25'
+    compile group: 'commons-collections', name: 'commons-collections', version: '3.2'
+    testCompile group: 'junit', name: 'junit', version: '4.+'
+}

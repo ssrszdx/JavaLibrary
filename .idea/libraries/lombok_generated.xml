@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lombok-generated">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/lombok/lib/lombok-generated.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/lombok/lib/lombok.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
