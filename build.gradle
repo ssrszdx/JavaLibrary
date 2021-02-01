@@ -3,6 +3,7 @@ plugins {
     id 'java'
     id "io.franzbecker.gradle-lombok" version "3.1.0"   //在此添加插件否则lombok引用会失败
 }
+apply plugin: 'groovy'
 //自定义 MANIFEST.MF  gradle propertie s
 jar{
     manifest {
@@ -40,6 +41,25 @@ hello.doLast{
 }
 // 依赖的项目，包
 dependencies {
+    /*compile
+    编译范围依赖在所有的 classpath 中可用，同时它们也会被打包
+
+    runtime
+    runtime 依赖在运行和测试系统的时候需要，但在编译的时候不需要。比如，你可能在编译的时候只需要 JDBC API JAR，而只有在运行的时候才需要 JDBC 驱动实现
+
+    testCompile
+    测试期编译需要的附加依赖
+
+    testRuntime
+    测试运行期需要
+
+    不同的插件提供了不同的标准配置，你甚至也可以定义属于自己的配置项。
+
+    外部依赖
+    依赖的类型有很多种，其中有一种类型称之为外部依赖。这种依赖由外部构建或者在不同的仓库中，例如 Maven 中央仓库或 Ivy 仓库中抑或是本地文件系统的某个目录中。
+    compile 'org.hibernate:hibernate-core:3.6.7.Final'
+    compile group: 'org.hibernate', name: 'hibernate-core', version: '3.6.7.Final'
+*/
 
     //testCompile group: 'junit', name: 'junit', version: '4.12'
 
@@ -54,4 +74,9 @@ dependencies {
     //compile group: 'org.slf4j', name: 'slf4j-api', version: '1.7.25'
     compile group: 'commons-collections', name: 'commons-collections', version: '3.2'
     testCompile group: 'junit', name: 'junit', version: '4.+'
+    //compile project(':shared') //依赖其他项目
+}
+//多项目的子项目配置
+subprojects {
+
 }
