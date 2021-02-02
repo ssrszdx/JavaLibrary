@@ -32,13 +32,13 @@ repositories {
 defaultTasks 'hello';
 task   hello  {
     println "Hello it's default task!"
-    ext.myname="abcdefghijklmnopqrstuvwxyz";
+    ext.myname="abcdefghijklmnopqrstuvwxyz"
     doLast {
-        println "ssssssssssssbbbbbbbbbb";
+        println "ssssssssssssbbbbbbbbbb"
     }
 }
 hello.doLast{
-    println hello.myname;
+    println hello.myname
 }
 // 依赖的项目，包
 dependencies {
