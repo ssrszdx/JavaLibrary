@@ -4,6 +4,7 @@ plugins {
     id "io.franzbecker.gradle-lombok" version "3.1.0"   //在此添加插件否则lombok引用会失败
 }
 apply plugin: 'groovy'
+apply plugin: 'war'
 //自定义 MANIFEST.MF  gradle propertie s
 jar{
     manifest {
