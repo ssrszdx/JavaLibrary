@@ -10,8 +10,8 @@ class HelloJava  {
         UserDaoProxy proxy= new UserDaoProxy(dao);
         proxy.save();
         //---------------------------part 3 --------------------
-        HUser user= new HUser();
-        user.getSex();
+        //HUser user= new HUser();
+       // user.getSex();
     }
 
 

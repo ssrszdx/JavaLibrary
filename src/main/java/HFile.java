@@ -4,7 +4,6 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class HFile {
-    private final String no="00001";
     public  void getCountOfNum()
     {
         Scanner canner = new Scanner(System.in);
@@ -20,7 +19,7 @@ public class HFile {
 
     public void getFileList() throws  Exception{
         try{
-            String basePath=String.format("C:/Users/01/Downloads");
+            String basePath=String.format("D:/download");
             String[] list=new File(basePath).list();
             System.out.println(Arrays.toString(list));
 

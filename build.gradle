@@ -1,83 +1,19 @@
-// 插件
 plugins {
     id 'java'
-    id "io.franzbecker.gradle-lombok" version "3.1.0"   //在此添加插件否则lombok引用会失败
-}
-apply plugin: 'groovy'
-apply plugin: 'war'
-//自定义 MANIFEST.MF  gradle propertie s
-jar{
-    manifest {
-        attributes 'Main-Class': 'HelloJava'
-        attributes 'sbsbsbsb':'you are sb.'
-    }
-}
-//发布jar包
-task uploadArchives {
-   
 }
 
-group 'com.personalcloud'
-version '1.0'
-sourceCompatibility = 1.8
+group 'org.example'
+version '1.0-SNAPSHOT'
 
-
-// 仓库地址
 repositories {
     mavenCentral()
-    //mavenLocal()    // 添加本地仓库
-    //jcenter()
 }
-//自定义任务，默认任务
-defaultTasks 'hello';
-task   hello  {
-    println "Hello it's default task!"
-    ext.myname="abcdefghijklmnopqrstuvwxyz";
-    doLast {
-        println "ssssssssssssbbbbbbbbbb";
-    }
-}
-hello.doLast{
-    println hello.myname;
-}
-// 依赖的项目，包
+
 dependencies {
-    /*compile
-    编译范围依赖在所有的 classpath 中可用，同时它们也会被打包
-
-    runtime
-    runtime 依赖在运行和测试系统的时候需要，但在编译的时候不需要。比如，你可能在编译的时候只需要 JDBC API JAR，而只有在运行的时候才需要 JDBC 驱动实现
-
-    testCompile
-    测试期编译需要的附加依赖
-
-    testRuntime
-    测试运行期需要
-
-    不同的插件提供了不同的标准配置，你甚至也可以定义属于自己的配置项。
-
-    外部依赖
-    依赖的类型有很多种，其中有一种类型称之为外部依赖。这种依赖由外部构建或者在不同的仓库中，例如 Maven 中央仓库或 Ivy 仓库中抑或是本地文件系统的某个目录中。
-    compile 'org.hibernate:hibernate-core:3.6.7.Final'
-    compile group: 'org.hibernate', name: 'hibernate-core', version: '3.6.7.Final'
-*/
-
-    //testCompile group: 'junit', name: 'junit', version: '4.12'
-
-    //compile group: 'io.netty', name: 'netty-all', version: '4.1.32.Final'
-
-    //compile group: 'mysql', name: 'mysql-connector-java', version: '5.1.47'
-
-    //compile group: 'org.mybatis', name: 'mybatis', version: '3.4.6'
-
-    //compile group: 'log4j', name: 'log4j', version: '1.2.17'
-
-    //compile group: 'org.slf4j', name: 'slf4j-api', version: '1.7.25'
-    compile group: 'commons-collections', name: 'commons-collections', version: '3.2'
-    testCompile group: 'junit', name: 'junit', version: '4.+'
-    //compile project(':shared') //依赖其他项目
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
 }
-//多项目的子项目配置
-subprojects {
 
+test {
+    useJUnitPlatform()
 }

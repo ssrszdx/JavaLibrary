@@ -1,5 +1,5 @@
-HFile.java
- HFile
+IUserDao.java
+ IUserDao
 UserDaoProxy.java
  UserDaoProxy
 HUser.java
@@ -9,7 +9,7 @@ UserDao.java
 HEnum.java
  HEnum
  HEnumTest
-IUserDao.java
- IUserDao
+HFile.java
+ HFile
 HelloJava.java
  HelloJava

@@ -1,3 +1,2 @@
-// ¶àÏîÄ¿ÅäÖÃ
-//include "shared", "api", "services:webservice", "services:shared"
-rootProject.name = 'HelloJava'
+rootProject.name = 'JavaLibrary'
+

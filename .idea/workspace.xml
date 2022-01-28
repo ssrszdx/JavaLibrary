@@ -1,29 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="SCOPE_TYPE" value="3" />
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="75f62348-1f67-4dd4-84dc-a72843728758" name="Default Changelist" comment="20210201 java gradle" />
+    <list default="true" id="f3e1255f-dcf8-492b-adc9-cb0940513984" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/file-changes/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/md-rule/md-rule.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/md-supplier/md-supplier.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/2k5rgroc3zvkfe5ctjpiyliug/2k5rgroc3zvkfe5ctjpiyliug.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/2k5rgroc3zvkfe5ctjpiyliug/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/2k5rgroc3zvkfe5ctjpiyliug/cp_proj/_BuildScript_$_run_closure1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/2k5rgroc3zvkfe5ctjpiyliug/cp_proj/_BuildScript_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/2k5rgroc3zvkfe5ctjpiyliug/metadata/metadata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/854y2t7acf4tne6i3r169zzqi/854y2t7acf4tne6i3r169zzqi.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/854y2t7acf4tne6i3r169zzqi/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/854y2t7acf4tne6i3r169zzqi/metadata/metadata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/854y2t7acf4tne6i3r169zzqi/proj/_BuildScript_$_run_closure1$_closure8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/854y2t7acf4tne6i3r169zzqi/proj/_BuildScript_$_run_closure1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/854y2t7acf4tne6i3r169zzqi/proj/_BuildScript_$_run_closure2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/854y2t7acf4tne6i3r169zzqi/proj/_BuildScript_$_run_closure3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/854y2t7acf4tne6i3r169zzqi/proj/_BuildScript_$_run_closure4$_closure9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/854y2t7acf4tne6i3r169zzqi/proj/_BuildScript_$_run_closure4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/854y2t7acf4tne6i3r169zzqi/proj/_BuildScript_$_run_closure5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/854y2t7acf4tne6i3r169zzqi/proj/_BuildScript_$_run_closure6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/854y2t7acf4tne6i3r169zzqi/proj/_BuildScript_$_run_closure7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/854y2t7acf4tne6i3r169zzqi/proj/_BuildScript_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/bvpl6ivib2nb8yu82w89vpttw/bvpl6ivib2nb8yu82w89vpttw.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/bvpl6ivib2nb8yu82w89vpttw/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/bvpl6ivib2nb8yu82w89vpttw/metadata/metadata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/bz7rep58gwxxn2845w5wgyvf2/bz7rep58gwxxn2845w5wgyvf2.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/bz7rep58gwxxn2845w5wgyvf2/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/bz7rep58gwxxn2845w5wgyvf2/metadata/metadata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/6.8.1/scripts/bz7rep58gwxxn2845w5wgyvf2/settings/_BuildScript_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/jars-8/436fef1eb1c0674465ed2870cbde4ee6/settings.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/jars-8/788e09aa62a50c4b9eb12c7dfd85eff2/cp_settings.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/jars-8/b793b5c1c66fbbe173166916331fd6c0/cp_proj.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/jars-8/ca1f0e47aee54d866b7dba28fb04ca16/gradle-lombok-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/jars-8/fe12d320dd8e5bf7275d0161374d2843/proj.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/jars-8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/journal-1/file-access.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/journal-1/file-access.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/modules-2/files-2.1/io.franzbecker.gradle-lombok/io.franzbecker.gradle-lombok.gradle.plugin/3.1.0/75fcdecf5c552e04e042f51598a103191822e176/io.franzbecker.gradle-lombok.gradle.plugin-3.1.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/modules-2/files-2.1/io.franzbecker/gradle-lombok/3.1.0/656120865ebf1cf089b243a9ef45bd2560ae1aab/gradle-lombok-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/modules-2/files-2.1/io.franzbecker/gradle-lombok/3.1.0/6e27260868fc6ee5b626b1e31fc8ac40b78905df/gradle-lombok-3.1.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/modules-2/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/modules-2/metadata-2.97/descriptors/io.franzbecker.gradle-lombok/io.franzbecker.gradle-lombok.gradle.plugin/3.1.0/671a8ecc284f9e9f4d35b614eb5de66e/descriptor.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/modules-2/metadata-2.97/descriptors/io.franzbecker/gradle-lombok/3.1.0/671a8ecc284f9e9f4d35b614eb5de66e/descriptor.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/modules-2/metadata-2.97/module-artifact.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/modules-2/metadata-2.97/module-artifacts.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/modules-2/metadata-2.97/module-metadata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/modules-2/metadata-2.97/resource-at-url.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/caches/transforms-3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/daemon/6.8.1/daemon-16220.out.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/daemon/6.8.1/registry.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/daemon/6.8.1/registry.bin.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/native/12488b8bf47d2d4c9fbf2f6322a914ad602e24e48041cd04a747c6da556b65c4/windows-amd64/native-platform-file-events.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/native/12488b8bf47d2d4c9fbf2f6322a914ad602e24e48041cd04a747c6da556b65c4/windows-amd64/native-platform-file-events.dll.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/native/fdc75f09e3144964f2cf3f50f0aa648679c211496f362492102eb8c894070792/windows-amd64/native-platform.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/native/fdc75f09e3144964f2cf3f50f0aa648679c211496f362492102eb8c894070792/windows-amd64/native-platform.dll.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/native/jansi/1.18/windows64/jansi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/notifications/6.8.1/release-features.rendered" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lombok_generated.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/HelloJava.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/HelloJava.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_2_1_10_12_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/HFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/HFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/HUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/HUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/HelloJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/HelloJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ivy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/HelloJava-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HelloJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloJava.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -41,7 +125,12 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="HelloJava" type="f1a62948:ProjectNode" />
+                <item name="JavaLibrary" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JavaLibrary" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
               </path>
             </expand>
             <select />
@@ -50,27 +139,8 @@
       </state>
     </system>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Enum" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="master" />
-  </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -80,107 +150,53 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="GroovyConsoleState">
-    <option name="list">
-      <list>
-        <Entry>
-          <option name="moduleName" value="HelloJava.main" />
-          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
-        </Entry>
-      </list>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="cb11f26c-4950-4d19-acf0-00544906c285" />
+        <option name="url" value="https://github.com/vthuer/JavaLibrary.git" />
+      </UrlAndAccount>
     </option>
   </component>
-  <component name="ProjectId" id="1avuH3LQ1MzG5c5VEBSVTmQ6tyv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectId" id="1r9xpJc2OVr0P3w7IojTFWwkkZv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Groovy.Last.Module.Chosen" value="HelloJava.main" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../software/JetBrains/crack/reset_script/reset_jetbrains_eval_windows.vbs" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.last.edited" value="库" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Project\Java\src\main\java" />
-      <recent name="D:\Project\Java" />
-      <recent name="D:\Project\Java\src" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.控制台颜色" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="gradle tasks" />
-      <command value="gradle gradble -v" />
-      <command value="gradle gradle -v" />
-      <command value="gradle Run with --stacktrace " />
-      <command value="gradle gradle hello" />
-      <command value="gradle hello" />
-      <command value="gradle -v" />
-      <command value="gradle v" />
-      <command value="gradle version" />
-      <command value="gradle -version" />
-      <command value="gradle  propertie s" />
-      <command value="gradle  propertie " />
-      <command value="gradle package" />
+      <command value="gradle --dry-run" />
+      <command value="gradle compileJava" />
       <command value="gradle build" />
-      <command value="gradle jar" />
-      <command value="gradle :init" />
-      <command value="gradle clean" />
-      <command value="gradle  build" />
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.Java [build]">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+  <component name="RunManager" selected="应用程序.HelloJava">
+    <configuration name="HelloJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloJava" />
+      <module name="JavaLibrary.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java [:init]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":init" />
-          </list>
-        </option>
-        <option name="vmOptions" value="" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="Java [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="JavaLibrary [build]" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -201,7 +217,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Java [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="JavaLibrary [compileJava]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -212,140 +228,102 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="clean" />
+            <option value="compileJava" />
           </list>
         </option>
-        <option name="vmOptions" value="" />
+        <option name="vmOptions" />
       </ExternalSystemSettings>
       <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="HelloJava-1.0.jar" type="JarApplication" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/build/libs/HelloJava-1.0.jar" />
+    <configuration name="JavaLibrary [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="HelloJava-2.0.jar" type="JarApplication" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/build/libs/HelloJava-2.0.jar" />
+    <configuration name="JavaLibrary" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--dry-run" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Gradle.Java [build]" />
-      <item itemvalue="Gradle.Java [:init]" />
-      <item itemvalue="Gradle.Java [clean]" />
-      <item itemvalue="JAR Application.HelloJava-1.0.jar" />
-      <item itemvalue="JAR Application.HelloJava-2.0.jar" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JAR Application.HelloJava-1.0.jar" />
-        <item itemvalue="JAR Application.HelloJava-2.0.jar" />
-        <item itemvalue="Gradle.Java [clean]" />
-        <item itemvalue="Gradle.Java [:init]" />
-        <item itemvalue="Gradle.Java [build]" />
+        <item itemvalue="应用程序.HelloJava" />
+        <item itemvalue="Gradle.JavaLibrary [compileJava]" />
+        <item itemvalue="Gradle.JavaLibrary" />
+        <item itemvalue="Gradle.JavaLibrary [jar]" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="75f62348-1f67-4dd4-84dc-a72843728758" name="Default Changelist" comment="" />
-      <created>1587628297872</created>
+      <changelist id="f3e1255f-dcf8-492b-adc9-cb0940513984" name="Default Changelist" comment="" />
+      <created>1618402289941</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587628297872</updated>
-      <workItem from="1587628299325" duration="98000" />
-      <workItem from="1587635664236" duration="1463000" />
-      <workItem from="1587638831263" duration="7446000" />
-      <workItem from="1589810322822" duration="8000" />
-      <workItem from="1591854341485" duration="955000" />
-      <workItem from="1601273552541" duration="705000" />
-      <workItem from="1601276036802" duration="597000" />
-      <workItem from="1601642502744" duration="684000" />
-      <workItem from="1602383695278" duration="758000" />
-      <workItem from="1602469739573" duration="29000" />
-      <workItem from="1602469863343" duration="359000" />
-      <workItem from="1602470555701" duration="642000" />
-      <workItem from="1602471347697" duration="684000" />
-      <workItem from="1602472073415" duration="2124000" />
-      <workItem from="1602578634919" duration="3142000" />
-      <workItem from="1603174521492" duration="718000" />
-      <workItem from="1603175332728" duration="10185000" />
-      <workItem from="1605076521010" duration="934000" />
-      <workItem from="1605081312371" duration="12944000" />
-      <workItem from="1610433253458" duration="9000" />
-      <workItem from="1610433859644" duration="5000" />
-      <workItem from="1610434004494" duration="4000" />
-      <workItem from="1610434138138" duration="1000" />
-      <workItem from="1610435306239" duration="65000" />
-      <workItem from="1610435406743" duration="150000" />
-      <workItem from="1610435782381" duration="207000" />
-      <workItem from="1610436089375" duration="23000" />
-      <workItem from="1610436520473" duration="943000" />
-      <workItem from="1610437614583" duration="622000" />
-      <workItem from="1610438274871" duration="30000" />
-      <workItem from="1610502194900" duration="2740000" />
-      <workItem from="1610693882775" duration="2663000" />
-      <workItem from="1610956367980" duration="9076000" />
-      <workItem from="1611128342211" duration="299000" />
-      <workItem from="1611128670595" duration="123000" />
-      <workItem from="1611128822618" duration="21000" />
-      <workItem from="1611128877707" duration="76000" />
-      <workItem from="1611128987785" duration="39000" />
-      <workItem from="1611129207904" duration="26891000" />
-      <workItem from="1611714415402" duration="3808000" />
-      <workItem from="1611801086621" duration="1633000" />
-      <workItem from="1611818887353" duration="19064000" />
-      <workItem from="1611912176659" duration="1617000" />
-      <workItem from="1611916925141" duration="1998000" />
+      <updated>1618402289941</updated>
+      <workItem from="1618402295355" duration="233000" />
+      <workItem from="1618402559683" duration="1406000" />
+      <workItem from="1618403979943" duration="162000" />
+      <workItem from="1618404163531" duration="624000" />
+      <workItem from="1618404798564" duration="33000" />
+      <workItem from="1618405614599" duration="52000" />
+      <workItem from="1618405718601" duration="44000" />
+      <workItem from="1642418750770" duration="215000" />
+      <workItem from="1642418990571" duration="494000" />
+      <workItem from="1642419847964" duration="266000" />
+      <workItem from="1642420162911" duration="192000" />
+      <workItem from="1642420363423" duration="915000" />
+      <workItem from="1642473918201" duration="849000" />
+      <workItem from="1642486524829" duration="18000" />
+      <workItem from="1642486765018" duration="173000" />
+      <workItem from="1642486958140" duration="38000" />
+      <workItem from="1642487121794" duration="603000" />
+      <workItem from="1642493020793" duration="193000" />
+      <workItem from="1642493296929" duration="136000" />
+      <workItem from="1642493471772" duration="52000" />
+      <workItem from="1642493564206" duration="6000" />
+      <workItem from="1642493692292" duration="192000" />
+      <workItem from="1642493894096" duration="130000" />
+      <workItem from="1642494037048" duration="72000" />
+      <workItem from="1642494124816" duration="43000" />
+      <workItem from="1642494182445" duration="179000" />
+      <workItem from="1642494374060" duration="4001000" />
+      <workItem from="1642557236196" duration="4556000" />
     </task>
-    <task id="LOCAL-00001" summary="20210129 java gradle">
-      <created>1611917044651</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1611917044651</updated>
-    </task>
-    <task id="LOCAL-00002" summary="20210129 java gradle">
-      <created>1611918625442</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1611918625442</updated>
-    </task>
-    <task id="LOCAL-00003" summary="20210129 java gradle">
-      <created>1611919284583</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1611919284583</updated>
-    </task>
-    <task id="LOCAL-00004" summary="20210129 java gradle">
-      <created>1611919299825</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1611919299825</updated>
-    </task>
-    <task id="LOCAL-00005" summary="20210201 java gradle">
-      <created>1612341723465</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1612341723465</updated>
-    </task>
-    <task id="LOCAL-00006" summary="20210201 java gradle">
-      <created>1612341905590</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1612341905590</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,72 +332,32 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
-        <entry key="1">
-          <value>
-            <State>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
-              <option name="FILTERS">
-                <map>
-                  <entry key="structure">
-                    <value>
-                      <list>
-                        <option value="dir:D:/Project/JavaLibrary/build" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="1" value="TOOL_WINDOW" />
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/.." />
-    </ignored-roots>
-    <MESSAGE value="20210129 java gradle" />
-    <MESSAGE value="20210201 java gradle" />
-    <option name="LAST_COMMIT_MESSAGE" value="20210201 java gradle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/HelloJava.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/src/main/java/HFile.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Java-master/day03/code/05_选择结构(if语句)/IfDemo2.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/src/main/java/HelloJava.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
